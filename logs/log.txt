@@ -1,109 +1,16 @@
-Mouse clicked at (1775, 23) with button Button.left
-Mouse clicked at (761, 951) with button Button.left
-Key pressed: 'd'
-Key pressed: 'd'
-Key pressed: 'd'
-Key pressed: 'd'
-Key pressed: 'd'
-Key pressed: Key.backspace
-Key pressed: Key.backspace
-Key pressed: Key.backspace
-Key pressed: Key.backspace
-Key pressed: Key.backspace
-Key pressed: Key.backspace
-Key pressed: Key.backspace
-Key pressed: Key.backspace
-Key pressed: Key.backspace
-Key pressed: Key.backspace
-Key pressed: Key.backspace
-Key pressed: Key.backspace
-Key pressed: Key.backspace
-Key pressed: Key.backspace
-Mouse clicked at (523, 23) with button Button.left
-Mouse clicked at (1166, 408) with button Button.left
-Key pressed: Key.ctrl_l
-Key pressed: '\x01'
-Key pressed: 't'
-Key pressed: Key.backspace
-Key pressed: Key.alt_l
-Key pressed: Key.shift
-Key pressed: 't'
-Key pressed: 'h'
-Key pressed: 'l'
-Key pressed: Key.space
-Key pressed: 't'
-Key pressed: 'b'
-Key pressed: 'h'
-Key pressed: Key.space
-Key pressed: 'n'
-Key pressed: 'r'
-Key pressed: 'h'
-Key pressed: Key.backspace
-Key pressed: Key.backspace
-Key pressed: Key.backspace
-Key pressed: 'n'
-Key pressed: 'p'
-Key pressed: 'g'
-Key pressed: 'h'
-Key pressed: 'k'
-Key pressed: Key.space
-Key pressed: 't'
-Key pressed: ','
-Key pressed: Key.space
-Key pressed: 'v'
-Key pressed: ','
-Key pressed: 'u'
-Key pressed: 'f'
-Key pressed: 'b'
-Key pressed: 'v'
-Key pressed: Key.backspace
-Key pressed: Key.backspace
-Key pressed: Key.backspace
-Key pressed: Key.backspace
-Key pressed: 'f'
-Key pressed: 'b'
-Key pressed: 'v'
-Mouse clicked at (1431, 476) with button Button.left
-Mouse clicked at (296, 533) with button Button.left
-Mouse clicked at (300, 4) with button Button.left
-Key pressed: Key.ctrl_l
-Mouse clicked at (704, 950) with button Button.left
-Key pressed: '\x16'
-Key pressed: Key.enter
+Mouse clicked at (1062, 375) with button Button.left
+Mouse clicked at (1062, 375) with button Button.left
+Mouse clicked at (1097, 658) with button Button.left
+Mouse clicked at (1097, 658) with button Button.left
+Mouse clicked at (167, 235) with button Button.left
+Mouse clicked at (167, 235) with button Button.left
 Key pressed: Key.alt_l
 Key pressed: Key.tab
 Key pressed: Key.tab
-Mouse clicked at (164, 203) with button Button.left
-Mouse clicked at (194, 218) with button Button.left
-Mouse clicked at (152, 186) with button Button.left
-Mouse clicked at (171, 215) with button Button.left
-Mouse clicked at (178, 178) with button Button.left
-Mouse clicked at (182, 161) with button Button.left
-Mouse clicked at (183, 188) with button Button.left
-Mouse clicked at (538, 310) with button Button.left
-Mouse clicked at (164, 155) with button Button.left
-Mouse clicked at (158, 175) with button Button.left
-Mouse clicked at (197, 200) with button Button.left
-Mouse clicked at (195, 260) with button Button.left
-Mouse clicked at (862, 575) with button Button.left
-Key pressed: Key.ctrl_l
-Key pressed: '\x01'
-Key pressed: '\x03'
-Mouse clicked at (1148, 1039) with button Button.left
-Mouse clicked at (1148, 1039) with button Button.left
-Mouse clicked at (1013, 1047) with button Button.left
-Mouse clicked at (844, 921) with button Button.left
-Mouse clicked at (1231, 671) with button Button.left
-Mouse clicked at (893, 943) with button Button.left
-Key pressed: '`'
-Key pressed: '`'
-Key pressed: '`'
-Key pressed: Key.backspace
-Key pressed: Key.backspace
-Key pressed: Key.backspace
-Key pressed: Key.backspace
-Key pressed: Key.alt_l
-Key pressed: Key.shift
+Mouse clicked at (1500, 464) with button Button.left
+Mouse clicked at (1500, 464) with button Button.left
+Mouse clicked at (715, 951) with button Button.left
+Mouse clicked at (715, 952) with button Button.left
 Key pressed: '`'
 Key pressed: '`'
 Key pressed: '`'
@@ -114,815 +21,382 @@ Key pressed: '`'
 Key pressed: '`'
 Key pressed: Key.shift
 Key pressed: Key.enter
+Mouse clicked at (616, 5) with button Button.left
+Mouse clicked at (616, 5) with button Button.left
+Mouse clicked at (1087, 402) with button Button.left
+Mouse clicked at (1087, 402) with button Button.left
 Key pressed: Key.ctrl_l
-Key pressed: Key.tab
-Mouse clicked at (1391, 426) with button Button.left
-Key pressed: Key.ctrl_l
+Key pressed: '\x01'
+Key pressed: 't'
+Key pressed: 'b'
+Key pressed: 'h'
+Key pressed: Key.backspace
+Key pressed: Key.backspace
+Key pressed: Key.backspace
 Key pressed: Key.alt_l
 Key pressed: Key.shift
-Key pressed: Key.ctrl_l
-Key pressed: Key.shift
-Key pressed: Key.shift
-Key pressed: Key.shift
-Key pressed: Key.shift
-Key pressed: Key.shift
-Key pressed: Key.ctrl_r
-Key pressed: Key.shift_r
-Key pressed: Key.ctrl_l
-Key pressed: '\x01'
 Key pressed: 't'
 Key pressed: 'b'
 Key pressed: 'h'
 Key pressed: Key.space
 Key pressed: 'r'
 Key pressed: 'u'
+Key pressed: ','
+Key pressed: 'v'
+Key pressed: Key.space
+Key pressed: Key.backspace
+Key pressed: Key.backspace
+Key pressed: Key.backspace
 Key pressed: 'm'
 Key pressed: 'v'
 Key pressed: Key.space
-Key pressed: 'k'
 Key pressed: 'a'
-Key pressed: 'p'
-Key pressed: 'r'
-Key pressed: Key.space
-Key pressed: 't'
-Key pressed: ','
-Key pressed: Key.space
 Key pressed: 'v'
-Key pressed: 'e'
-Key pressed: 'u'
-Key pressed: 's'
-Key pressed: Key.space
-Key pressed: 'a'
-Key pressed: 'k'
-Key pressed: 'h'
-Key pressed: Key.space
-Key pressed: "'"
-Key pressed: Key.space
 Key pressed: 'r'
-Key pressed: Key.num_lock
-Key pressed: Key.backspace
-Key pressed: Key.num_lock
-Key pressed: 't'
-Key pressed: 'b'
-Key pressed: 'h'
-Key pressed: Key.space
-Key pressed: 'r'
-Key pressed: 'u'
-Key pressed: 'm'
-Key pressed: 'v'
-Key pressed: Key.space
-Key pressed: 'k'
-Key pressed: 'm'
-Key pressed: 'h'
-Key pressed: Key.backspace
-Key pressed: Key.backspace
-Key pressed: 'h'
-Key pressed: 'm'
-Key pressed: 'u'
-Key pressed: 'r'
-Key pressed: Key.space
-Key pressed: Key.shift
-Key pressed: 'A'
-Key pressed: 'A'
-Key pressed: Key.backspace
-Key pressed: 'I'
-Key pressed: Key.space
-Key pressed: Key.shift_r
-Key pressed: ')'
-Key pressed: 'c'
-Key pressed: 'h'
-Key pressed: 'b'
-Key pressed: 'v'
-Key pressed: Key.space
-Key pressed: 'n'
-Key pressed: 'k'
-Key pressed: 't'
-Key pressed: 'f'
-Key pressed: 'u'
-Key pressed: ','
-Key pressed: 'h'
-Key pressed: ','
-Key pressed: Key.space
-Key pressed: Key.shift_r
-Key pressed: '('
-Key pressed: Key.space
-Key pressed: 'a'
-Key pressed: ','
-Key pressed: 's'
-Key pressed: 'r'
-Key pressed: Key.backspace
-Key pressed: 't'
-Key pressed: 'd'
-Key pressed: Key.space
-Key pressed: 'k'
-Key pressed: 'a'
-Key pressed: 'p'
-Key pressed: 'r'
-Key pressed: Key.space
-Key pressed: 'k'
-Key pressed: 'h'
-Key pressed: Key.space
-Key pressed: 't'
-Key pressed: ','
-Key pressed: Key.space
-Key pressed: 'v'
-Key pressed: 'e'
-Key pressed: 'u'
-Key pressed: 's'
-Key pressed: Key.space
-Key pressed: 'u'
-Key pressed: 'a'
-Key pressed: 'n'
-Key pressed: 'h'
-Key pressed: 'r'
-Key pressed: ','
-Key pressed: Key.space
-Key pressed: 'b'
-Key pressed: ','
-Key pressed: 'u'
-Key pressed: 'b'
-Key pressed: 'h'
-Key pressed: 'o'
-Key pressed: Key.space
-Key pressed: 'c'
-Key pressed: 'm'
-Key pressed: 'u'
-Key pressed: 'r'
-Key pressed: 'v'
-Key pressed: Key.space
-Key pressed: 'h'
-Key pressed: 'u'
-Key pressed: ','
-Key pressed: 'r'
-Key pressed: Key.space
-Key pressed: 'j'
-Key pressed: 'k'
-Key pressed: 'e'
-Key pressed: 'v'
-Key pressed: Key.space
-Mouse clicked at (285, 515) with button Button.left
-Mouse clicked at (385, 0) with button Button.left
-Key pressed: Key.ctrl_l
-Key pressed: '\x16'
-Key pressed: Key.enter
-Mouse clicked at (799, 761) with button Button.left
-Key pressed: Key.ctrl_l
-Key pressed: '\x03'
-Mouse clicked at (517, 16) with button Button.left
-Mouse clicked at (1121, 427) with button Button.left
-Key pressed: Key.ctrl_l
-Key pressed: Key.shift
-Key pressed: Key.shift
-Key pressed: Key.shift
-Key pressed: Key.shift
-Key pressed: Key.shift
-Key pressed: Key.shift
-Key pressed: Key.shift
-Key pressed: Key.shift
-Key pressed: Key.shift
-Key pressed: Key.shift
-Key pressed: Key.shift
-Key pressed: Key.shift
-Key pressed: Key.shift
-Key pressed: Key.shift
-Key pressed: Key.shift
-Key pressed: '\x13'
-Key pressed: '\x01'
-Key pressed: Key.ctrl_l
-Key pressed: '\x16'
-Mouse clicked at (1529, 927) with button Button.left
-Key pressed: 't'
-Key pressed: 'z'
-Key pressed: Key.space
-Key pressed: 'h'
-Key pressed: 'a'
-Key pressed: Key.space
-Key pressed: 'k'
-Key pressed: 'l'
-Key pressed: Key.space
-Key pressed: 'j'
-Key pressed: 'z'
-Key pressed: 'v'
-Key pressed: Key.space
-Key pressed: 'g'
-Key pressed: 'u'
-Key pressed: ';'
-Key pressed: Key.shift_r
-Key pressed: '?'
-Key pressed: Key.enter
-Key pressed: 't'
-Key pressed: ','
-Key pressed: Key.space
-Key pressed: 'h'
-Key pressed: 'f'
-Key pressed: 'u'
-Key pressed: 'k'
-Key pressed: 'v'
-Key pressed: Key.space
-Key pressed: 'k'
-Key pressed: 'g'
 Key pressed: 'a'
 Key pressed: 'u'
-Key pressed: ','
-Key pressed: Key.space
-Key pressed: 'k'
-Key pressed: 'k'
-Key pressed: 'l'
-Key pressed: Key.space
-Key pressed: 't'
-Key pressed: 'j'
-Key pressed: 's'
-Key pressed: Key.space
-Key pressed: 'x'
-Key pressed: 'r'
-Key pressed: 'h'
-Key pressed: 't'
-Key pressed: Key.backspace
-Key pressed: Key.backspace
-Key pressed: Key.backspace
-Key pressed: Key.backspace
-Key pressed: 'c'
-Key pressed: 'r'
-Key pressed: 'h'
-Key pressed: 't'
-Key pressed: 'v'
-Key pressed: Key.space
-Key pressed: 'c'
-Key pressed: ','
-Key pressed: 'b'
-Key pressed: 'u'
-Key pressed: 'r'
-Key pressed: Key.enter
-Key pressed: 'k'
-Key pressed: 'e'
-Key pressed: 'b'
-Key pressed: 'u'
-Key pressed: ','
-Key pressed: Key.space
-Key pressed: 'e'
-Key pressed: 'n'
-Key pressed: 'j'
-Key pressed: Key.space
-Key pressed: 't'
-Key pressed: 'u'
-Key pressed: 'r'
-Key pressed: 'z'
-Key pressed: Key.space
-Key pressed: 't'
-Key pressed: 'u'
-Key pressed: Key.space
-Key pressed: 'e'
-Key pressed: 'n'
-Key pressed: 'j'
-Key pressed: Key.space
-Key pressed: 'a'
 Key pressed: 'n'
 Key pressed: 'u'
 Key pressed: ','
-Key pressed: 'r'
 Key pressed: Key.space
-Key pressed: 'k'
-Key pressed: 'l'
-Key pressed: Key.space
-Key pressed: Key.enter
-Key pressed: 'u'
-Key pressed: 't'
-Key pressed: 'z'
-Key pressed: Key.space
-Key pressed: 'k'
-Key pressed: 'v'
+Key pressed: 'h'
 Key pressed: 'a'
-Key pressed: 'h'
-Key pressed: 'o'
-Key pressed: Key.space
-Key pressed: ','
-Key pressed: 'c'
-Key pressed: 'k'
-Key pressed: 'h'
-Key pressed: 'b'
-Key pressed: 'h'
-Key pressed: 'o'
-Key pressed: Key.space
-Key pressed: Key.enter
-Key pressed: 'k'
-Key pressed: ','
-Key pressed: 'c'
-Key pressed: 'u'
-Key pressed: 'k'
-Key pressed: Key.space
-Key pressed: 'c'
-Key pressed: 'c'
-Key pressed: 'h'
-Key pressed: 'm'
-Key pressed: 'v'
-Key pressed: Key.space
-Key pressed: Key.shift_r
-Key pressed: ')'
-Key pressed: 'g'
-Key pressed: 'o'
-Key pressed: Key.space
-Key pressed: 'j'
-Key pressed: 'k'
-Key pressed: 'c'
-Key pressed: Key.space
-Key pressed: 'e'
-Key pressed: 'u'
-Key pressed: 'e'
-Key pressed: 'u'
-Key pressed: 'x'
-Key pressed: Key.space
-Key pressed: 'u'
-Key pressed: 't'
-Key pressed: ','
-Key pressed: Key.space
-Key pressed: 'h'
-Key pressed: 'f'
-Key pressed: 'u'
-Key pressed: 'k'
-Key pressed: 'v'
-Key pressed: Key.space
-Key pressed: 'k'
-Key pressed: 'v'
-Key pressed: 'a'
-Key pressed: ','
 Key pressed: 'n'
-Key pressed: 'a'
+Key pressed: 'r'
+Key pressed: 'u'
 Key pressed: Key.space
 Key pressed: 'c'
 Key pressed: 'e'
-Key pressed: 'n'
-Key pressed: 'j'
-Key pressed: Key.space
-Key pressed: 'e'
 Key pressed: 'u'
-Key pressed: 'e'
-Key pressed: 'u'
-Key pressed: 'x'
-Key pressed: Key.space
-Key pressed: Key.shift_r
-Key pressed: '('
-Key pressed: Key.enter
-Key pressed: 'u'
-Key pressed: 't'
-Key pressed: 'z'
-Key pressed: Key.space
-Key pressed: 'k'
-Key pressed: 'j'
-Key pressed: 'n'
-Key pressed: 'o'
-Key pressed: Key.space
-Key pressed: ','
-Key pressed: 'b'
-Key pressed: 'u'
-Key pressed: 'r'
-Key pressed: Key.space
-Key pressed: 'k'
-Key pressed: '2'
-Key pressed: '0'
-Key pressed: '0'
-Key pressed: Key.space
-Key pressed: 'n'
-Key pressed: 'g'
-Key pressed: 'k'
-Key pressed: 'u'
-Key pressed: ','
-Key pressed: Key.space
-Key pressed: Key.enter
-Key pressed: 'a'
-Key pressed: 'v'
-Key pressed: 'h'
-Key pressed: 'v'
-Key pressed: Key.space
-Key pressed: 'n'
-Key pressed: 'n'
-Key pressed: 'a'
-Key pressed: Key.space
-Key pressed: 'j'
-Key pressed: 'o'
-Key pressed: Key.space
-Key pressed: Key.enter
-Key pressed: 'u'
-Key pressed: 't'
-Key pressed: 'z'
-Key pressed: Key.space
-Key pressed: ','
-Key pressed: 'a'
-Key pressed: 'h'
-Key pressed: 'n'
-Key pressed: 'h'
-Key pressed: Key.space
-Key pressed: 't'
-Key pressed: ','
-Key pressed: Key.space
-Key pressed: 'z'
-Key pressed: Key.backspace
-Key pressed: 'v'
-Key pressed: 'j'
-Key pressed: 'z'
-Key pressed: 'v'
-Key pressed: Key.space
-Key pressed: 'g'
-Key pressed: 'u'
-Key pressed: ';'
-Key pressed: Key.space
-Key pressed: 't'
-Key pressed: 'j'
-Key pressed: 'r'
-Key pressed: 'h'
-Key pressed: Key.space
-Key pressed: 'a'
-Key pressed: ','
 Key pressed: 'c'
-Key pressed: 'k'
-Key pressed: ','
+Key pressed: '.'
 Key pressed: Key.space
-Key pressed: 't'
-Key pressed: 'u'
-Key pressed: ','
-Key pressed: 'u'
-Key pressed: Key.space
-Key pressed: 'c'
-Key pressed: 'c'
-Key pressed: 'h'
-Key pressed: 'm'
-Key pressed: 'v'
-Key pressed: Key.space
-Key pressed: 'u'
-Key pressed: 'e'
-Key pressed: 'n'
-Key pressed: 'j'
-Key pressed: Key.space
-Key pressed: 'f'
-Key pressed: 'n'
-Key pressed: 'u'
-Key pressed: Key.space
-Key pressed: 'a'
-Key pressed: 'b'
-Key pressed: 'h'
-Key pressed: 'm'
-Key pressed: 'k'
-Key pressed: Key.space
-Key pressed: 'u'
-Key pressed: 't'
-Key pressed: 'z'
-Key pressed: Key.space
-Key pressed: ','
-Key pressed: 'a'
-Key pressed: 'h'
-Key pressed: 'n'
-Key pressed: 'h'
-Key pressed: Key.space
-Key pressed: 'c'
-Key pressed: ','
-Key pressed: 'b'
-Key pressed: 'u'
-Key pressed: 'r'
-Key pressed: Key.space
-Key pressed: '1'
-Key pressed: '0'
-Key pressed: Key.space
-Key pressed: 's'
-Key pressed: 'e'
-Key pressed: 'u'
-Key pressed: ','
-Key pressed: Key.space
-Key pressed: Key.enter
-Key pressed: ','
-Key pressed: 'j'
-Key pressed: ','
-Key pressed: 'f'
-Key pressed: 'h'
-Key pressed: Key.space
-Key pressed: 't'
-Key pressed: ','
-Key pressed: Key.space
-Key pressed: 'v'
-Key pressed: 'j'
-Key pressed: 'z'
-Key pressed: 'v'
-Key pressed: Key.space
-Key pressed: 'g'
-Key pressed: 'u'
-Key pressed: ';'
-Key pressed: Key.space
-Key pressed: 'c'
-Key pressed: 'm'
-Key pressed: 'u'
-Key pressed: 'r'
-Key pressed: 'v'
-Key pressed: Key.space
-Key pressed: 'a'
-Key pressed: 'k'
-Key pressed: Key.space
-Key pressed: 'r'
-Key pressed: 'c'
-Key pressed: 'g'
-Key pressed: Key.space
-Key pressed: 'u'
-Key pressed: 'r'
-Key pressed: Key.backspace
-Key pressed: Key.backspace
-Key pressed: 'j'
-Key pressed: 'z'
-Key pressed: 'v'
-Key pressed: Key.space
-Key pressed: 'g'
-Key pressed: 'u'
-Key pressed: ';'
-Key pressed: Key.space
-Key pressed: 'f'
-Key pressed: 'f'
-Key pressed: 'v'
-Key pressed: Key.space
-Key pressed: 'a'
-Key pressed: 'v'
-Key pressed: 'h'
-Key pressed: 'v'
-Key pressed: Key.space
-Key pressed: 'g'
-Key pressed: 'h'
-Key pressed: 'x'
-Key pressed: Key.backspace
-Key pressed: Key.backspace
-Key pressed: 'x'
-Key pressed: 'h'
-Key pressed: 'x'
-Key pressed: 'h'
-Key pressed: Key.space
-Key pressed: Key.enter
-Mouse clicked at (1287, 750) with button Button.left
-Mouse clicked at (373, 0) with button Button.left
-Mouse clicked at (1549, 332) with button Button.left
+Key pressed: Key.alt_l
+Key pressed: Key.tab
+Key pressed: Key.alt_l
+Key pressed: Key.tab
 Key pressed: Key.alt_l
 Key pressed: Key.tab
 Key pressed: Key.tab
+Mouse clicked at (196, 245) with button Button.right
+Mouse clicked at (196, 245) with button Button.right
+Mouse clicked at (306, 454) with button Button.left
+Mouse clicked at (306, 454) with button Button.left
+Key pressed: Key.alt_l
 Key pressed: Key.tab
 Key pressed: Key.ctrl_l
-Key pressed: '\x01'
+Key pressed: Key.ctrl_l
+Key pressed: Key.ctrl_l
+Key pressed: Key.ctrl_l
+Key pressed: Key.ctrl_l
 Key pressed: '\x16'
-Mouse clicked at (691, 987) with button Button.left
+Mouse clicked at (1294, 497) with button Button.left
+Mouse clicked at (1294, 497) with button Button.left
+Mouse clicked at (1298, 479) with button Button.left
+Mouse clicked at (1298, 479) with button Button.left
+Mouse clicked at (298, 535) with button Button.left
+Mouse clicked at (297, 535) with button Button.left
+Mouse clicked at (328, 5) with button Button.left
+Mouse clicked at (328, 5) with button Button.left
 Key pressed: Key.ctrl_l
-Key pressed: '\x03'
-Mouse clicked at (979, 959) with button Button.left
+Key pressed: '\x16'
+Key pressed: Key.enter
+Mouse clicked at (1498, 713) with button Button.left
+Mouse clicked at (1498, 713) with button Button.left
+Key pressed: Key.alt_l
+Key pressed: Key.tab
+Key pressed: Key.tab
+Mouse clicked at (269, 290) with button Button.left
+Mouse clicked at (269, 290) with button Button.left
+Mouse clicked at (711, 380) with button Button.left
+Mouse clicked at (654, 4) with button Button.left
 Key pressed: Key.ctrl_l
-Key pressed: '\x03'
-Key pressed: '\x03'
-Key pressed: Key.esc
-Key pressed: Key.ctrl_l
-Key pressed: '\x03'
-Key pressed: '\x03'
-Mouse clicked at (980, 959) with button Button.left
-Mouse clicked at (1235, 466) with button Button.left
-Key pressed: Key.ctrl_l
-Key pressed: Key.ctrl_l
+Key pressed: '\x16'
 Key pressed: Key.ctrl_l
 Key pressed: '\x1a'
-Mouse clicked at (1229, 471) with button Button.left
-Key pressed: Key.enter
-Key pressed: Key.enter
+Key pressed: Key.ctrl_l
+Key pressed: Key.ctrl_l
+Key pressed: Key.ctrl_l
+Key pressed: Key.ctrl_l
+Key pressed: Key.ctrl_l
+Key pressed: Key.ctrl_l
+Key pressed: Key.ctrl_l
+Key pressed: Key.ctrl_l
+Key pressed: Key.ctrl_l
+Key pressed: Key.ctrl_l
+Key pressed: Key.ctrl_l
+Key pressed: Key.ctrl_l
+Key pressed: Key.ctrl_l
+Key pressed: Key.ctrl_l
 Key pressed: Key.ctrl_l
 Key pressed: '\x16'
-Mouse clicked at (671, 359) with button Button.left
-Key pressed: Key.ctrl_l
-Key pressed: <191>
-Mouse clicked at (918, 923) with button Button.left
-Key pressed: Key.ctrl_l
-Key pressed: '\x03'
-Key pressed: Key.ctrl_l
-Key pressed: '\x03'
-Key pressed: Key.esc
-Key pressed: Key.esc
-Key pressed: Key.esc
-Key pressed: Key.enter
-Mouse clicked at (225, 219) with button Button.left
-Mouse clicked at (827, 451) with button Button.left
-Key pressed: Key.ctrl_l
-Key pressed: '\x01'
-Key pressed: Key.backspace
-Mouse clicked at (550, 975) with button Button.left
-Mouse clicked at (567, 829) with button Button.left
-Mouse clicked at (573, 887) with button Button.left
-Key pressed: Key.ctrl_l
-Key pressed: 's'
-Key pressed: 'd'
-Key pressed: 's'
-Key pressed: 'd'
+Mouse clicked at (765, 352) with button Button.left
+Mouse clicked at (765, 352) with button Button.left
+Mouse clicked at (795, 276) with button Button.left
+Mouse clicked at (796, 276) with button Button.left
+Mouse clicked at (166, 249) with button Button.left
+Mouse clicked at (166, 249) with button Button.left
+Mouse clicked at (545, 289) with button Button.left
+Mouse clicked at (545, 289) with button Button.left
+Mouse clicked at (239, 290) with button Button.left
+Mouse clicked at (240, 291) with button Button.left
+Mouse clicked at (408, 363) with button Button.left
+Mouse clicked at (721, 548) with button Button.left
 Key pressed: Key.ctrl_l
 Key pressed: '\x03'
-Mouse clicked at (1770, 938) with button Button.left
-Mouse clicked at (1195, 71) with button Button.left
-Mouse clicked at (734, 66) with button Button.left
-Mouse clicked at (796, 58) with button Button.left
-Mouse clicked at (623, 66) with button Button.left
-Mouse clicked at (1002, 551) with button Button.left
 Key pressed: Key.alt_l
 Key pressed: Key.tab
-Mouse clicked at (916, 952) with button Button.left
-Mouse clicked at (602, 0) with button Button.left
-Mouse clicked at (1192, 513) with button Button.left
-Key pressed: Key.ctrl_l
-Key pressed: '\x01'
+Mouse clicked at (707, 935) with button Button.left
+Mouse clicked at (707, 935) with button Button.left
+Key pressed: '`'
+Key pressed: '`'
+Key pressed: '`'
+Key pressed: Key.backspace
+Key pressed: Key.backspace
+Key pressed: Key.backspace
+Key pressed: Key.backspace
+Key pressed: 'o'
+Key pressed: 'l'
+Key pressed: 'd'
+Key pressed: Key.backspace
+Key pressed: Key.backspace
+Key pressed: Key.backspace
 Key pressed: Key.alt_l
 Key pressed: Key.shift
-Key pressed: 'n'
-Key pressed: 'v'
-Key pressed: Key.space
-Key pressed: Key.backspace
-Key pressed: Key.backspace
-Key pressed: Key.backspace
-Key pressed: 'n'
-Key pressed: 'v'
-Key pressed: Key.backspace
-Key pressed: Key.backspace
-Key pressed: Key.alt_l
-Key pressed: Key.shift
-Key pressed: 'n'
-Key pressed: 'v'
-Key pressed: Key.space
-Key pressed: 'z'
-Key pressed: 'v'
-Key pressed: Key.space
-Key pressed: 'a'
-Key pressed: 'u'
-Key pressed: 'b'
-Key pressed: 'v'
-Key pressed: Key.space
-Key pressed: 'n'
-Key pressed: 'v'
-Key pressed: 'e'
-Key pressed: 'u'
-Key pressed: 's'
-Key pressed: Key.space
-Key pressed: 'a'
-Key pressed: 'k'
-Key pressed: 'h'
-Key pressed: Key.space
-Key pressed: 'u'
-Key pressed: 't'
-Key pressed: 'h'
-Key pressed: 'z'
-Key pressed: 'v'
-Key pressed: Key.space
 Key pressed: 'p'
-Key pressed: 'u'
-Key pressed: 'b'
+Key pressed: 'l'
+Key pressed: Key.backspace
+Key pressed: Key.backspace
+Key pressed: 'o'
+Key pressed: 'l'
+Key pressed: 'd'
+Key pressed: Key.space
+Key pressed: 'c'
+Key pressed: 'o'
+Key pressed: 'd'
 Key pressed: 'e'
-Key pressed: 'm'
-Key pressed: 'h'
-Key pressed: 'u'
-Key pressed: ','
-Key pressed: Key.space
-Key pressed: 'h'
-Key pressed: 'a'
-Key pressed: Key.space
-Key pressed: 'k'
-Key pressed: 'u'
-Key pressed: Key.space
-Key pressed: 'h'
-Key pressed: 'u'
-Key pressed: ','
-Key pressed: 'r'
-Key pressed: Key.space
+Key pressed: '.'
+Key pressed: 'p'
+Key pressed: 'y'
 Key pressed: Key.ctrl_l
-Key pressed: Key.shift
-Mouse clicked at (1253, 481) with button Button.left
-Key pressed: Key.ctrl_l
-Key pressed: Key.shift
-Key pressed: Key.shift
-Key pressed: Key.shift
-Key pressed: Key.shift
-Key pressed: Key.shift
-Key pressed: Key.shift
-Key pressed: Key.shift
-Key pressed: Key.shift
-Key pressed: Key.shift
-Key pressed: Key.shift
-Key pressed: Key.shift
 Key pressed: Key.shift
 Key pressed: Key.left
-Key pressed: Key.shift_r
-Key pressed: Key.ctrl_r
-Key pressed: Key.shift_r
-Key pressed: Key.ctrl_r
-Key pressed: Key.shift_r
-Key pressed: Key.ctrl_r
-Key pressed: Key.ctrl_r
-Key pressed: Key.shift_r
+Key pressed: Key.left
+Key pressed: Key.left
 Key pressed: Key.ctrl_l
 Key pressed: Key.shift
-Key pressed: '\x13'
-Mouse clicked at (291, 525) with button Button.left
-Mouse clicked at (228, 0) with button Button.left
-Key pressed: Key.ctrl_l
-Mouse clicked at (719, 931) with button Button.left
-Key pressed: '\x16'
-Key pressed: Key.shift_r
-Key pressed: '?'
-Key pressed: '?'
-Key pressed: '?'
-Key pressed: Key.enter
-Mouse clicked at (1347, 1054) with button Button.left
-Mouse clicked at (238, 232) with button Button.left
-Key pressed: Key.ctrl_l
-Key pressed: '\x01'
-Mouse clicked at (957, 470) with button Button.left
+Key pressed: Key.left
+Key pressed: Key.left
+Key pressed: Key.left
+Key pressed: Key.backspace
+Key pressed: Key.backspace
+Key pressed: Key.shift
+Key pressed: 'C'
 Key pressed: Key.ctrl_l
 Key pressed: '\x01'
 Key pressed: Key.right
-Key pressed: Key.left
-Mouse clicked at (959, 557) with button Button.left
-Mouse clicked at (1067, 461) with button Button.right
-Mouse clicked at (974, 420) with button Button.left
-Key pressed: Key.alt_l
-Key pressed: Key.tab
-Key pressed: Key.tab
-Mouse clicked at (849, 303) with button Button.left
-Mouse clicked at (353, 13) with button Button.left
-Mouse clicked at (679, 390) with button Button.left
-Key pressed: Key.ctrl_l
-Key pressed: '\x03'
-Mouse clicked at (612, 0) with button Button.left
-Key pressed: Key.ctrl_l
-Mouse clicked at (1078, 459) with button Button.left
-Mouse clicked at (1094, 426) with button Button.left
-Key pressed: Key.ctrl_l
-Key pressed: Key.ctrl_l
-Key pressed: '\x01'
-Key pressed: '\x16'
-Mouse clicked at (939, 327) with button Button.left
-Mouse clicked at (102, 112) with button Button.left
-Mouse clicked at (911, 6) with button Button.left
-Mouse clicked at (1160, 0) with button Button.left
-Mouse clicked at (100, 100) with button Button.left
-Mouse clicked at (595, 143) with button Button.left
-Mouse clicked at (491, 799) with button Button.left
-Mouse clicked at (518, 777) with button Button.left
-Key pressed: 'k'
-Key pressed: Key.backspace
-Key pressed: Key.alt_l
-Key pressed: Key.shift
-Key pressed: 'k'
-Key pressed: 'e'
-Key pressed: 'y'
-Key pressed: 'l'
-Key pressed: 'o'
-Key pressed: 'g'
-Key pressed: 'g'
-Key pressed: 'e'
-Key pressed: 'r'
 Key pressed: Key.shift_r
-Key pressed: '_'
-Key pressed: 'b'
-Key pressed: 'a'
-Key pressed: 's'
-Key pressed: 'i'
-Key pressed: 'c'
-Key pressed: 'e'
-Key pressed: '='
-Key pressed: Key.backspace
-Key pressed: Key.backspace
-Key pressed: Key.backspace
-Key pressed: 'e'
-Key pressed: Key.backspace
-Key pressed: Key.backspace
-Key pressed: 'e'
-Key pressed: 'c'
-Key pressed: 'i'
-Key pressed: Key.backspace
-Key pressed: Key.backspace
-Key pressed: Key.backspace
-Mouse clicked at (614, 21) with button Button.left
-Key pressed: Key.ctrl_l
-Mouse clicked at (1223, 388) with button Button.left
-Key pressed: '\x01'
-Key pressed: 'c'
-Key pressed: Key.backspace
-Key pressed: Key.alt_l
-Key pressed: Key.shift
-Key pressed: 'c'
-Key pressed: 'x'
-Key pressed: 'h'
-Key pressed: 'x'
-Key pressed: 'h'
-Key pressed: Key.ctrl_l
-Key pressed: Key.shift
-Key pressed: '\x13'
-Mouse clicked at (299, 532) with button Button.left
-Mouse clicked at (394, 0) with button Button.left
-Mouse clicked at (1196, 10) with button Button.left
-Mouse clicked at (604, 753) with button Button.left
+Key pressed: ':'
+Key pressed: '-'
+Key pressed: '`'
+Key pressed: '`'
+Key pressed: '`'
 Key pressed: Key.ctrl_l
 Key pressed: '\x16'
-Mouse clicked at (549, 978) with button Button.left
-Mouse clicked at (204, 473) with button Button.left
+Mouse clicked at (661, 959) with button Button.left
+Mouse clicked at (661, 959) with button Button.left
+Key pressed: Key.backspace
+Key pressed: Key.backspace
+Key pressed: Key.backspace
+Key pressed: Key.backspace
+Key pressed: Key.alt_l
+Key pressed: Key.tab
 Key pressed: Key.ctrl_l
-Mouse clicked at (581, 479) with button Button.left
-Mouse clicked at (579, 474) with button Button.left
+Key pressed: <191>
+Key pressed: Key.ctrl_l
+Key pressed: '\x03'
+Key pressed: Key.ctrl_l
+Key pressed: <191>
+Key pressed: Key.alt_l
+Key pressed: Key.tab
+Mouse clicked at (987, 964) with button Button.left
+Mouse clicked at (606, 815) with button Button.left
+Key pressed: Key.ctrl_l
+Key pressed: '\x16'
+Key pressed: Key.space
+Key pressed: Key.ctrl_l
+Key pressed: '\x1a'
+Mouse clicked at (854, 926) with button Button.left
+Mouse clicked at (854, 926) with button Button.left
+Key pressed: Key.ctrl_l
+Key pressed: Key.ctrl_l
+Key pressed: '\x1a'
+Mouse clicked at (800, 957) with button Button.left
+Mouse clicked at (622, 825) with button Button.left
+Key pressed: Key.backspace
+Key pressed: Key.alt_l
+Key pressed: Key.tab
+Key pressed: Key.ctrl_l
+Key pressed: <191>
+Mouse clicked at (470, 413) with button Button.right
+Mouse clicked at (470, 413) with button Button.right
+Mouse clicked at (565, 778) with button Button.left
+Mouse clicked at (565, 778) with button Button.left
+Key pressed: Key.alt_l
+Key pressed: Key.tab
+Key pressed: Key.ctrl_l
+Key pressed: '\x16'
+Key pressed: '`'
+Key pressed: '`'
+Key pressed: '`'
+Key pressed: Key.alt_l
+Key pressed: Key.tab
+Key pressed: Key.ctrl_l
+Key pressed: <191>
+Key pressed: Key.alt_l
+Key pressed: Key.tab
+Key pressed: Key.shift
+Key pressed: Key.enter
+Key pressed: 'n'
+Key pressed: 'e'
+Key pressed: 'w'
+Key pressed: Key.shift
+Key pressed: 'C'
+Key pressed: 'o'
+Key pressed: 'd'
+Key pressed: 'e'
+Key pressed: '.'
+Key pressed: 'p'
+Key pressed: 'y'
+Key pressed: Key.shift_r
+Key pressed: ':'
+Key pressed: '-'
+Key pressed: '`'
+Key pressed: '`'
+Key pressed: Key.alt_l
+Key pressed: '`'
+Mouse clicked at (861, 970) with button Button.left
+Mouse clicked at (861, 970) with button Button.left
+Key pressed: '`'
+Mouse clicked at (1508, 351) with button Button.left
+Mouse clicked at (1508, 351) with button Button.left
+Mouse clicked at (911, 966) with button Button.left
+Mouse clicked at (725, 837) with button Button.left
+Mouse clicked at (725, 837) with button Button.left
+Mouse clicked at (226, 238) with button Button.left
+Mouse clicked at (226, 238) with button Button.left
+Mouse clicked at (1096, 610) with button Button.left
+Mouse clicked at (1096, 610) with button Button.left
+Key pressed: Key.ctrl_l
+Key pressed: '\x01'
+Key pressed: Key.right
+Mouse clicked at (1096, 610) with button Button.left
+Mouse clicked at (1096, 610) with button Button.left
+Key pressed: 'm'
+Key pressed: 'k'
+Key pressed: 'k'
+Key pressed: 'l'
+Key pressed: 'j'
+Key pressed: 'l'
+Key pressed: 'l'
+Key pressed: Key.ctrl_l
+Key pressed: Key.tab
+Mouse clicked at (152, 242) with button Button.left
+Mouse clicked at (152, 242) with button Button.left
+Mouse clicked at (880, 960) with button Button.left
+Mouse clicked at (880, 960) with button Button.left
+Key pressed: 'w'
+Key pressed: 'a'
+Key pressed: 'g'
+Key pressed: 'a'
+Mouse clicked at (650, 72) with button Button.left
+Mouse clicked at (650, 72) with button Button.left
+Mouse clicked at (1022, 545) with button Button.left
+Mouse clicked at (1022, 545) with button Button.left
+Mouse clicked at (938, 920) with button Button.left
+Mouse clicked at (938, 920) with button Button.left
+Key pressed: 'w'
+Key pressed: 'a'
+Key pressed: 'g'
+Key pressed: 'a'
+Mouse clicked at (195, 241) with button Button.left
+Mouse clicked at (195, 241) with button Button.left
+Mouse clicked at (1716, 733) with button Button.left
+Mouse clicked at (1716, 733) with button Button.left
+Key pressed: Key.alt_l
+Key pressed: Key.tab
+Mouse clicked at (1089, 333) with button Button.left
+Mouse clicked at (1089, 333) with button Button.left
+Mouse clicked at (293, 0) with button Button.left
+Mouse clicked at (293, 0) with button Button.left
+Mouse clicked at (592, 0) with button Button.left
+Mouse clicked at (592, 0) with button Button.left
+Mouse clicked at (1013, 3) with button Button.left
+Mouse clicked at (1013, 3) with button Button.left
+Key pressed: Key.alt_l
+Key pressed: Key.tab
+Key pressed: Key.tab
+Key pressed: Key.tab
+Mouse clicked at (847, 484) with button Button.left
+Mouse clicked at (847, 484) with button Button.left
+Key pressed: Key.tab
+Mouse clicked at (1184, 571) with button Button.left
+Mouse clicked at (1184, 571) with button Button.left
+Mouse clicked at (560, 680) with button Button.left
+Mouse clicked at (800, 679) with button Button.left
+Mouse clicked at (555, 660) with button Button.left
+Mouse clicked at (653, 661) with button Button.left
 Key pressed: Key.ctrl_l
 Key pressed: '\x03'
 Key pressed: Key.alt_l
 Key pressed: Key.tab
-Mouse clicked at (424, 538) with button Button.left
-Mouse clicked at (546, 949) with button Button.left
-Mouse clicked at (1708, 729) with button Button.left
-Mouse clicked at (1875, 756) with button Button.left
+Mouse clicked at (858, 535) with button Button.left
+Mouse clicked at (858, 535) with button Button.left
+Key pressed: Key.ctrl_l
+Key pressed: '\x16'
+Key pressed: Key.enter
+Key pressed: 'g'
+Key pressed: 'i'
+Key pressed: 't'
+Key pressed: Key.space
+Key pressed: 'i'
+Key pressed: 'n'
+Key pressed: 'i'
+Key pressed: 't'
+Key pressed: Key.enter
+Key pressed: Key.up
+Key pressed: Key.up
+Key pressed: Key.enter
+Mouse clicked at (1783, 9) with button Button.left
+Mouse clicked at (1783, 9) with button Button.left
+Mouse clicked at (1772, 23) with button Button.left
+Mouse clicked at (1772, 23) with button Button.left
+Mouse clicked at (326, 264) with button Button.left
+Mouse clicked at (326, 264) with button Button.left
+Mouse clicked at (321, 238) with button Button.left
+Mouse clicked at (321, 238) with button Button.left
+Mouse clicked at (321, 238) with button Button.left
+Mouse clicked at (321, 238) with button Button.left
+Mouse clicked at (649, 78) with button Button.left
+Mouse clicked at (649, 78) with button Button.left
+Mouse clicked at (654, 77) with button Button.left
+Mouse clicked at (654, 77) with button Button.left
+Mouse clicked at (572, 76) with button Button.left
+Mouse clicked at (572, 76) with button Button.left
+Mouse clicked at (308, 239) with button Button.left
+Mouse clicked at (308, 239) with button Button.left
+Key pressed: Key.shift_r
+Key pressed: Key.delete
+Key pressed: Key.enter
+Key pressed: Key.alt_l
+Key pressed: Key.tab
+Key pressed: Key.tab
+Key pressed: 'c'
+Key pressed: 'd'
+Key pressed: Key.tab
+Key pressed: Key.space
+Key pressed: Key.tab
+Key pressed: Key.enter
+Key pressed: Key.up
+Key pressed: Key.up
+Key pressed: Key.enter

